@@ -16,9 +16,9 @@ Here are some ideas to get you started:
 
 [![我的 GitHub 数据](https://github-readme-stats.vercel.app/api?username=Lawliet-Chan&theme=tokyonight)]()   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lawliet-Chan&theme=tokyonight)](https://github.com/Lawliet-Chan/github-readme-stats&theme=tokyonight)  
-- My Vistor ![Visitor Count](https://profile-counter.glitch.me/Lawliet-Chan/count.svg)  
 
-- ⚡ I'am blockchain and infra developer 
-- 🌱 I'm using golang, rust.  
-- 😄 I'm developing my blockchain framework Yu.
+- **I am the author of [EIP-8099](https://github.com/ethereum/EIPs/blob/master/EIPS/eip-8099.md)**
+- I'm blockchain and infra developer 
+- I'm using golang, rust.  
+- I'm developing my blockchain framework Yu.
 - Blog: http://lawlietchan.xyz/
