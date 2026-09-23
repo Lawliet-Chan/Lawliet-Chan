@@ -21,4 +21,4 @@ Here are some ideas to get you started:
 - I'm blockchain and infra developer 
 - I'm using golang, rust.  
 - I'm developing my blockchain framework Yu.
-- Blog: http://lawlietchan.xyz/
+- Blog: [http://lawlietchan.xyz/](https://lawliet-chan.github.io/)
